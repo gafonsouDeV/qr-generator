@@ -1,0 +1,17 @@
+div {
+  display: flex;
+  flex-direction: column;
+  align-items:last baseline;
+  margin-top: 4em;
+  height: 800px;
+  
+  background-image: url('../images/si.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size:contain;
+}
+
+h1 {
+  color: #fff;
+  margin-right: 4em;
+}

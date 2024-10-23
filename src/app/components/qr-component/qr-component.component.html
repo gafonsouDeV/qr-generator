@@ -1,0 +1,4 @@
+<qrcode (qrCodeURL)="onChangeUrl($event)" [qrdata]="url || 'https://github.com/gafonsouDeV'" [width]="300" [errorCorrectionLevel]="'M'"></qrcode>
+<div class="d-grid">
+  <a [href]="qrCodeDownloadLink" download="qrcode" class="btn btn-primary">Download</a>
+</div>
