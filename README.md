@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Qr generator
+By default the initial qr is linked to my github account, to change the qr to the desire url just write it or paste it in the url input and click on 
+the generate qr. The application will generate a new qr and you'll be able to scan it or download it in .png file to share, print or any purpose you want. Enjoy it :) 
